@@ -40,5 +40,8 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<!-- QR -->
+	<key>NSCameraUsageDescription</key>
+  <string>Read QR codes</string>
 </dict>
 </plist>
